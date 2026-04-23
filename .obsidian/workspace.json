@@ -150,12 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Raw/未命名.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "未命名 的大纲"
             }
           }
         ]
@@ -176,8 +177,10 @@
       "bases:新建数据库": false
     }
   },
-  "active": "9b4a1dd543d61dfa",
+  "active": "8fa5cd527a595d29",
   "lastOpenFiles": [
+    "Raw/未命名",
+    "Raw/未命名.md",
     "Raw/index.html"
   ]
 }
